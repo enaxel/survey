@@ -1,7 +1,6 @@
 # State of the Art on Hardware Accelerators for Large Language Models
 A survey on Hardware Accelerators for Large Language Models
 
-The following table shows the research papers focused on the acceleration of LLMs (mostly transformers) categorized on the computing platform (FPGA, GPU, ASIC, In-memory).
 
 You can read the relevant paper here: [A Survey on Hardware Accelerators for Large Language Models](https://arxiv.org/abs/2401.09890)
 
@@ -16,8 +15,14 @@ Feel free to cite the paper:
       primaryClass={cs.AR}
 }
 ```
+An overview of the speedup and Energy efficiency of Hardware accelerators for LLMs
+(If there is no energy efficiency measurements the paper is plotted in the x-axis as if the energy efficiency was 1) 
 
-If you are interested to add you researhc paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
+![Survey on Hardware accelerators for LLMs](survey.png)
+
+The following table shows the research papers focused on the acceleration of LLMs (mostly transformers) categorized on the computing platform (FPGA, GPU, ASIC, In-memory).
+
+If you are interested to add you research paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
 
 
 | Year | Type | Title   | Speedup | Energy efficiency |
