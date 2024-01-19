@@ -1,10 +1,22 @@
-# sota
+# State of the Art on Hardware Accelerators for Large Language Models
 A survey on Hardware Accelerators for Large Language Models
 
-Created by [Christoforos Kachris](https://users.uniwa.gr/kachris/)
+The following table shows the research papers focused on the acceleration of LLMs (mostly transformers) categorized on the computing platform (FPGA, GPU, ASIC, In-memory).
 
-More details on the survey: 
-Feel free to cite the following paper
+You can read the relevant paper here: [A Survey on Hardware Accelerators for Large Language Models](https://arxiv.org/abs/2401.09890)
+
+Feel free to cite the paper:
+@misc{kachris2024survey,
+      title={A Survey on Hardware Accelerators for Large Language Models}, 
+      author={Christoforos Kachris},
+      year={2024},
+      eprint={2401.09890},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR}
+}
+
+If you are interested to add you researhc paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
+
 
 | Year | Type | Title   | Speedup | Energy efficiency |
 | ---- | ---- | ------- | ------- | ----------------- |
