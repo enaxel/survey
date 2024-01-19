@@ -6,6 +6,7 @@ The following table shows the research papers focused on the acceleration of LLM
 You can read the relevant paper here: [A Survey on Hardware Accelerators for Large Language Models](https://arxiv.org/abs/2401.09890)
 
 Feel free to cite the paper:
+```
 @misc{kachris2024survey,
       title={A Survey on Hardware Accelerators for Large Language Models}, 
       author={Christoforos Kachris},
@@ -14,6 +15,7 @@ Feel free to cite the paper:
       archivePrefix={arXiv},
       primaryClass={cs.AR}
 }
+```
 
 If you are interested to add you researhc paper in the list contact me here: [Christoforos Kachris](https://users.uniwa.gr/kachris/)
 
