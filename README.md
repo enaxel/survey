@@ -1,6 +1,4 @@
-# State of the Art on Hardware Accelerators for Large Language Models
-A survey on Hardware Accelerators for Large Language Models
-
+# A Syrvey on Hardware Accelerators for Large Language Models
 
 You can read the relevant paper here: [A Survey on Hardware Accelerators for Large Language Models](https://arxiv.org/abs/2401.09890)
 
